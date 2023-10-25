@@ -1,6 +1,6 @@
-# My Personal Project
+# CraveList
 
-## **A restaurant reviews app** 
+## **A restaurant review app** 
 
 **What will the application do?**
 - The application will allow the user to view highly-rated restaurants and add them 
