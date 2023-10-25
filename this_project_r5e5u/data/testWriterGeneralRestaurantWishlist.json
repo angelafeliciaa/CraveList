@@ -1,0 +1,12 @@
+{"Restaurant Wishlist": [
+    {
+        "name": "Elisa Steak",
+        "rating": 4.5,
+        "category": "WESTERN"
+    },
+    {
+        "name": "Tavola",
+        "rating": 3.5,
+        "category": "ITALIAN"
+    }
+]}

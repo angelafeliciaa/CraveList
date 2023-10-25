@@ -1,0 +1,14 @@
+{
+  "Restaurant Wishlist": [
+    {
+      "name": "Miku Sushi",
+      "category": "JAPANESE",
+      "rating" : "4.0"
+    },
+    {
+      "name": "Sulbing",
+      "category": "DESSERT",
+      "rating" : "5.0"
+    }
+  ]
+}
